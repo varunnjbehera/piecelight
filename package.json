@@ -1,0 +1,12 @@
+{
+  "name": "piecelight-jigsaw",
+  "private": true,
+  "version": "3.3.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.js",
+    "build": "node scripts/build.js",
+    "preview": "node scripts/serve.js dist 4173",
+    "test": "node --test"
+  }
+}
